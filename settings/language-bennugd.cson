@@ -1,0 +1,5 @@
+'.source.prg':
+  'editor':
+    'commentStart': '// '
+    'increaseIndentPattern': '\\b(?i:(begin|declare|else|except|exception|finally|for|if|loop|package|procedure|task|try|type|when|function|process))\\b'
+    'decreaseIndentPattern': '\\b(?i:(end|endprocess|endfunction))\\b'

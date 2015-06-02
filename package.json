@@ -1,0 +1,36 @@
+{
+  "name": "language-bennugd",
+  "version": "0.7.0",
+  "description": "Bennu Game Development language support in Atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alefragnani/language-pascal"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# Pascal language support in Atom\n\nAdd syntax highlighting and snippets to Pascal files in Atom.\n\nOriginally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)\nfrom the [Pascal TextMate bundle](https://github.com/textmate/pascal.tmbundle).\n\nContributions are greatly appreciated. Please fork this repository and open a\npull request to add snippets, make grammar tweaks, etc.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/alefragnani/language-pascal/issues"
+  },
+  "homepage": "https://github.com/alefragnani/language-pascal",
+  "_id": "language-pascal@0.7.0",
+  "dist": {
+    "shasum": "c47784628525924a37113b77c451a89e871187a5"
+  },
+  "_resolved": "C:\\Users\\BENJAMIN\\AppData\\Local\\Temp\\d-11552-7484-5qryk4\\package.tgz",
+  "_from": "C:\\Users\\BENJAMIN\\AppData\\Local\\Temp\\d-11552-7484-5qryk4\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
